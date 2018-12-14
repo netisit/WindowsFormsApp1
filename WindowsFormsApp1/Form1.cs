@@ -21,19 +21,6 @@ namespace WindowsFormsApp1
         {
             MessageBox.Show("test");
             MessageBox.Show("test");
-            MessageBox.Show("testtesttesttesttesttesttest");
-            MessageBox.Show("test");
-            MessageBox.Show("test");
-            MessageBox.Show("test");
-            MessageBox.Show("test");
-            MessageBox.Show("test");
-            MessageBox.Show("test");
-            MessageBox.Show("test");
-            MessageBox.Show("test");
-
-
-
-            MessageBox.Show("test");
         }
     }
 }
